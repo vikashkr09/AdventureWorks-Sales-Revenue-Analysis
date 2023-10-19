@@ -1,5 +1,5 @@
 # AdventureWorks-Sales-Revenue-Analysis
-Welcome to the Adventure Works Cycles Dashboard, a Power BI project that transforms data into actionable insights! 📊
+Welcome to the Adventure Works Cycles Dashboard, a Power BI project that transforms data into actionable insights!📊
 
 ![Screenshot (23)](https://github.com/vikashkr09/AdventureWorks-Sales-Revenue-Analysis/assets/121419780/15aebbf6-dab2-41cf-a7ff-a91dc518ec2c)
 
